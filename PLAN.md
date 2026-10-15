@@ -13,7 +13,7 @@ Marca cada casilla al terminar (`- [x]`). Haz commit cada día: `git commit -m "
 - [x] Instalar las extensiones recomendadas de VS Code (aparece un aviso al abrir la carpeta)
 - [x] `uv sync` y `uv run pytest` (2 tests en verde y 3 en skip)
 - [x] Copiar `.env.example` a `.env` y poner la clave de OpenRouter
-- [ ] `git init`, primer commit y repo **público** en GitHub (aprender en público también cuenta para el CV)
+- [x] `git init`, primer commit y repo **público** en GitHub (aprender en público también cuenta para el CV)
 
 ## Semana 1: el lenguaje
 
