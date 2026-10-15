@@ -1,0 +1,11 @@
+# Transcripción FICTICIA para practicar. Formato: HABLANTE: texto
+AGENT: Good morning, thanks for calling Riverside Auto Repair, this is Maria speaking.
+CUSTOMER: Hi Maria, my car is making a grinding noise when I brake.
+AGENT: I'm sorry to hear that. How long has it been happening?
+CUSTOMER: About a week now, and it's getting louder.
+AGENT: That sounds like it could be the brake pads. We can take a look today at two o'clock.
+CUSTOMER: Two works for me. How much does an inspection cost?
+AGENT: The brake inspection is free, and we'll give you a quote before any work.
+CUSTOMER: Great, please book me in. My name is David Lee.
+AGENT: Perfect, David. You're booked for two o'clock today. See you then.
+CUSTOMER: Thank you, bye.

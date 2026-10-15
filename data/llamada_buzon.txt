@@ -1,0 +1,3 @@
+# Transcripción FICTICIA: llamada que acaba en el buzón de voz
+AGENT: You've reached Riverside Auto Repair. We're closed right now. Please leave a message after the tone.
+CUSTOMER: Hi, this is Ana, I wanted to ask about tire prices. I'll call back tomorrow.
